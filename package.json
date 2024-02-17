@@ -20,5 +20,8 @@
   "homepage": "https://github.com/yaya-mamoudou/web-crawler#readme",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^24.0.0"
   }
 }
